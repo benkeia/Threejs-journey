@@ -1,6 +1,6 @@
 # Three.js Journey
 
-A comprehensive learning project following the **Three.js Journey** course by Bruno Simon.
+This repository gathers all the files I produce as I work through the Three.js Journey course
 
 ## 📚 Course Overview
 
