@@ -32,7 +32,7 @@ This repository documents my progress through the Three.js Journey course, cover
   - [ ✅ ] 02. What is WebGL and why use Three.js
   - [ ✅ ] 03. First Three.js Project
   - [ ✅ ] 04. Transform objects
-  - [ ❌ ] 05. Animations
+  - [ ✅ ] 05. Animations
   - [ ❌ ] 06. Cameras
   - [ ❌ ] 07. Fullscreen and resizing
   - [ ❌ ] 08. Geometries
