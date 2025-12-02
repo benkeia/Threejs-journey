@@ -33,7 +33,7 @@ This repository documents my progress through the Three.js Journey course, cover
   - [ ✅ ] 03. First Three.js Project
   - [ ✅ ] 04. Transform objects
   - [ ✅ ] 05. Animations
-  - [ ❌ ] 06. Cameras
+  - [ ✅ ] 06. Cameras
   - [ ❌ ] 07. Fullscreen and resizing
   - [ ❌ ] 08. Geometries
   - [ ❌ ] 09. Debug UI
