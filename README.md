@@ -37,7 +37,7 @@ This repository documents my progress through the Three.js Journey course, cover
   - [ ✅ ] 07. Fullscreen and resizing
   - [ ✅ ] 08. Geometries
   - [ ✅ ] 09. Debug UI
-  - [ ❌ ] 10. Textures
+  - [ ✅ ] 10. Textures
   - [ ❌ ] 11. Materials
   - [ ❌ ] 12. 3D Text
   - [ ❌ ] 13. Go live
